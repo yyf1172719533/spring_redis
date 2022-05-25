@@ -12,7 +12,7 @@
     <properties>
         <mybatis.version>3.5.2</mybatis.version>
         <mybatis-spring.version>2.0.2</mybatis-spring.version>
-        <spring.version>4.3.24.RELEASE</spring.version>
+        <spring.version>5.2.22.RELEASE</spring.version>
         <druid.version>1.0.18</druid.version>
         <mysql.version>8.0.17</mysql.version>
         <fastjson.version>1.2.59</fastjson.version>
